@@ -13,9 +13,9 @@ and librarys like Shiny and Tibble to help with the interactive ui and the api c
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](https://www.datacamp.com/tutorial/r-studio-tutorial)
-- [Web Site Name](https://www.geeksforgeeks.org/)
-- [Web Site Name](https://www.datamentor.io/r-programming)
+- [data camp](https://www.datacamp.com/tutorial/r-studio-tutorial)
+- [geeks for geeks](https://www.geeksforgeeks.org/)
+- [data mentor](https://www.datamentor.io/r-programming)
 
 # Future Work
 
